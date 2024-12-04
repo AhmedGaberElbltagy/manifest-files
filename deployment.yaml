@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: spring-boot
-        image: ahmedelbltagy/gitops:5b95683a8
+        image: ahmedelbltagy/gitops:4904b5dc5
         imagePullPolicy: Always
         ports:
           - containerPort: 8080
